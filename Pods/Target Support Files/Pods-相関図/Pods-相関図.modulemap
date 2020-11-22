@@ -1,0 +1,6 @@
+framework module Pods____ {
+  umbrella header "Pods-相関図-umbrella.h"
+
+  export *
+  module * { export * }
+}
